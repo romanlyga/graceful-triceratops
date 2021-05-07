@@ -14,7 +14,6 @@ models:
   button:
     type: data
     label: Button
-    file: ''
     fields:
       - type: string
         name: dark_primary_color
@@ -31,7 +30,6 @@ models:
       - type: string
         name: kimbie_primary_color
         label: Kimbie Primary Color
-    singleInstance: true
   flowchartjs:
     type: data
     label: Flowchartjs
